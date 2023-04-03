@@ -12,6 +12,14 @@ The GL516 case is required to use Malic Acid A65.<br>
 You can buy the GL516 case [YushaKobo](https://shop.yushakobo.jp/collections/case/products/3814) .<br>
 Or you can fabricate your own from [publicly available 3D data](https://github.com/Salicylic-acid3/GL516_Case).
 
+**Decoration Plate**
+
+Decoration plate data is available here.<br>
+https://github.com/Salicylic-acid3/GL516_Example/
+
+Or you can order a laser cutting service at [YushaKobo](https://shop.yushakobo.jp/products/keyboard_acrylic_plate).
+
+
 **Version History**
 
 - Rev 0.1…  Prototype edition.  
