@@ -8,7 +8,7 @@
 
 **Designed for GL516**
 
-The GL516 case is required to use Malic Acid A65.<br>
+The GL516 case is required to use Sidrina.<br>
 You can buy the GL516 case [YushaKobo](https://shop.yushakobo.jp/collections/case/products/3814) .<br>
 Or you can fabricate your own from [publicly available 3D data](https://github.com/Salicylic-acid3/GL516_Case).
 
